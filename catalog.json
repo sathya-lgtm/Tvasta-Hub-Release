@@ -1,0 +1,31 @@
+{
+  "apps": [
+    {
+      "id": "nirmaan-studio",
+      "name": "Nirmaan Studio",
+      "description": "",
+      "githubOwner": "sathya-lgtm",
+      "githubRepo": "Nirmaan-Studio-Release",
+      "exeName": "NirmaanStudio.exe",
+      "assetMatch": ".zip"
+    },
+    {
+      "id": "maaya",
+      "name": "Maaya",
+      "description": "",
+      "githubOwner": "sathya-lgtm",
+      "githubRepo": "Maaya-Release",
+      "exeName": "Maaya.exe",
+      "assetMatch": ".zip"
+    },
+    {
+      "id": "non-planar-slicer",
+      "name": "Non Planar Slicer",
+      "description": "",
+      "githubOwner": "sathya-lgtm",
+      "githubRepo": "NP-Slicer-Release",
+      "exeName": "NewApp.exe",
+      "assetMatch": ".zip"
+    }
+  ]
+}
