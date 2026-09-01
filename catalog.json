@@ -24,7 +24,16 @@
       "description": "",
       "githubOwner": "sathya-lgtm",
       "githubRepo": "NP-Slicer-Release",
-      "exeName": "NewApp.exe",
+      "exeName": "Non Planar Slicer.exe",
+      "assetMatch": ".zip"
+    },
+    {
+      "id": "sira",
+      "name": "Sira Software",
+      "description": "",
+      "githubOwner": "sathya-lgtm",
+      "githubRepo": "Sira-Release",
+      "exeName": "Sira.exe",
       "assetMatch": ".zip"
     }
   ]
