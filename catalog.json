@@ -6,7 +6,7 @@
       "description": "",
       "githubOwner": "sathya-lgtm",
       "githubRepo": "Nirmaan-Studio-Release",
-      "exeName": "Nirmaan Studio.exe",
+      "exeName": "RobotWpfApp.exe",
       "assetMatch": ".zip"
     },
     {
