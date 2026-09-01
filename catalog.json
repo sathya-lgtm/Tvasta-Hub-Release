@@ -6,7 +6,7 @@
       "description": "",
       "githubOwner": "sathya-lgtm",
       "githubRepo": "Nirmaan-Studio-Release",
-      "exeName": "NirmaanStudio.exe",
+      "exeName": "Nirmaan Studio.exe",
       "assetMatch": ".zip"
     },
     {
@@ -15,7 +15,7 @@
       "description": "",
       "githubOwner": "sathya-lgtm",
       "githubRepo": "Maaya-Release",
-      "exeName": "Maaya.exe",
+      "exeName": "Maya.exe",
       "assetMatch": ".zip"
     },
     {
@@ -24,7 +24,7 @@
       "description": "",
       "githubOwner": "sathya-lgtm",
       "githubRepo": "NP-Slicer-Release",
-      "exeName": "Non Planar Slicer.exe",
+      "exeName": "NonPlanarSlicer.exe",
       "assetMatch": ".zip"
     },
     {
