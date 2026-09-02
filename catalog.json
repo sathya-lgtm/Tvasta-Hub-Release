@@ -39,7 +39,8 @@
       "exeName": "SiraSoftware.exe",
       "assetMatch": ".zip",
       "preserveFiles": [
-        "\u0022D:\\sirasoftware\\sirasoftware\\NirmaanSoftware\\bin\\Debug\\License.xml\u0022"
+        "License.xml",
+        "License1.xml"
       ]
     }
   ]
