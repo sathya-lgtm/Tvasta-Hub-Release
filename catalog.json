@@ -7,7 +7,8 @@
       "githubOwner": "sathya-lgtm",
       "githubRepo": "Nirmaan-Studio-Release",
       "exeName": "RobotWpfApp.exe",
-      "assetMatch": ".zip"
+      "assetMatch": ".zip",
+      "preserveFiles": []
     },
     {
       "id": "maaya",
@@ -16,7 +17,8 @@
       "githubOwner": "sathya-lgtm",
       "githubRepo": "Maaya-Release",
       "exeName": "Maya.exe",
-      "assetMatch": ".zip"
+      "assetMatch": ".zip",
+      "preserveFiles": []
     },
     {
       "id": "non-planar-slicer",
@@ -25,7 +27,8 @@
       "githubOwner": "sathya-lgtm",
       "githubRepo": "NP-Slicer-Release",
       "exeName": "NonPlanarSlicer.exe",
-      "assetMatch": ".zip"
+      "assetMatch": ".zip",
+      "preserveFiles": []
     },
     {
       "id": "sira",
@@ -34,7 +37,10 @@
       "githubOwner": "sathya-lgtm",
       "githubRepo": "Sira-Release",
       "exeName": "SiraSoftware.exe",
-      "assetMatch": ".zip"
+      "assetMatch": ".zip",
+      "preserveFiles": [
+        "\u0022D:\\sirasoftware\\sirasoftware\\NirmaanSoftware\\bin\\Debug\\License.xml\u0022"
+      ]
     }
   ]
 }
